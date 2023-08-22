@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Kiendaotac\FilamentMetronicComponent\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentMetronicComponentCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-metronic-component';
 
     public $description = 'My command';
 
