@@ -2,9 +2,9 @@
 
 namespace Kiendaotac\FilamentMetronicComponent;
 
+use Kiendaotac\FilamentMetronicComponent\Commands\FilamentMetronicComponentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Kiendaotac\FilamentMetronicComponent\Commands\FilamentMetronicComponentCommand;
 
 class FilamentMetronicComponentServiceProvider extends PackageServiceProvider
 {

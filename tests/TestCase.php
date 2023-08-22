@@ -3,8 +3,8 @@
 namespace Kiendaotac\FilamentMetronicComponent\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Kiendaotac\FilamentMetronicComponent\FilamentMetronicComponentServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
